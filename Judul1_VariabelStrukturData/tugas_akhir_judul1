@@ -1,1 +1,29 @@
+def main():
+    print("=== Program Sederhana Pencatat Nilai ===")
+    
+    daftar_nilai = [] 
+    
+    try:
+        jumlah = int(input("Masukkan jumlah nilai yang ingin diinput "))
+    except ValueError:
+        print("Error, masukkan angka")
+        return
 
+    for i in range(jumlah):
+        while True:
+            try:
+                nilai = int(input(f"Masukkan nilai ke-{i+1}: "))
+                daftar_nilai.append(nilai)
+                break
+            except ValueError:
+                print("Error, masukkan angka")
+
+    print("\n--- Rekap Nilai Mahasiswa ---")
+    if len(daftar_nilai) == 0:
+        print("Belum ada nilai yang diinput.")
+    else:
+        for i in range(len(daftar_nilai)):
+            print(f"Data indeks ke-[{i}]: {daftar_nilai[i]}")
+
+if __name__ == "__main__":
+    main()
