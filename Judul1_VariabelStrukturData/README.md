@@ -1,5 +1,5 @@
 # Judul Program
-Program Sederhana Pencatat Nilai Mahasiswa
+Program Sederhana Pencatat Nilai Mahasiswa 
 
 ## Deskripsi Singkat
 Program ini dibuat untuk mendata nilai mahasiswa. Pengguna bebas menentukan jumlah data, lalu menginput nilainya secara manual. Hasil akhirnya berupa rekapitulasi nilai yang disusun rapi berdasarkan urutan input.
