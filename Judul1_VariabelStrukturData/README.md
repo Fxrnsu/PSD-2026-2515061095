@@ -48,4 +48,4 @@ Data disimpan menggunakan List 1 Dimensi karena kemampuannya dalam mengelola uru
 Gambar di atas membuktikan bahwa program berjalan tanpa error. Awalnya, program meminta jumlah nilai yang ingin diinput (misalnya 5). Kemudian, program meminta input nilai sebanyak 5 kali (misalnya 80, 90, 75, 85, 80). Setelah semua data dimasukkan, program langsung menampilkan "Rekap Nilai Mahasiswa" dengan mencetak indeks List beserta isi datanya (contoh: Data indeks ke-[0]: 80, Data indeks ke-[1]: 90, dst). Program juga kebal terhadap error tipe data, jika kita memasukkan huruf saat diminta angka, program akan meminta input ulang berkat penanganan error (`try-except`).
 
 ## Link YouTube
-
+https://youtu.be/WeyOzxU6asU
