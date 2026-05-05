@@ -56,6 +56,6 @@ Algoritma struktur data yang diterapkan pada program ini adalah **Selection Sort
 <img width="479" height="286" alt="image" src="https://github.com/user-attachments/assets/b40e796b-a207-4212-b05c-a0b3fa5304ff" />
 
 **Penjelasan Output:**
-Gambar di atas menunjukkan bahwa program berjalan sempurna tanpa error. Saat program dijalankan, sistem meminta input jumlah skor yang ingin dicatat misalnya 4. Lalu pengguna memasukkan skor secara acak: 120, 450, 90, dan 300. Program menampilkan susunan list acak tersebut terlebih dahulu. Setelah fungsi `selection_sort_descending` dijalankan, program menampilkan "Leaderboard" di mana skor sudah otomatis terurut dari yang paling besar ke yang paling kecil.
+Saat program dijalankan, sistem meminta input jumlah skor yang ingin dicatat misalnya 4. Lalu pengguna memasukkan skor secara acak: 120, 450, 90, dan 300. Program menampilkan susunan list acak tersebut terlebih dahulu. Setelah fungsi `selection_sort_descending` dijalankan, program menampilkan "Leaderboard" di mana skor sudah otomatis terurut dari yang paling besar ke yang paling kecil.
 
 ## Link YouTube
