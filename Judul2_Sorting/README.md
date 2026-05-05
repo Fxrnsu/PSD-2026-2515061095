@@ -59,3 +59,4 @@ Algoritma struktur data yang diterapkan pada program ini adalah **Selection Sort
 Saat program dijalankan, sistem meminta input jumlah skor yang ingin dicatat misalnya 4. Lalu pengguna memasukkan skor secara acak: 120, 450, 90, dan 300. Program menampilkan susunan list acak tersebut terlebih dahulu. Setelah fungsi `selection_sort_descending` dijalankan, program menampilkan "Leaderboard" di mana skor sudah otomatis terurut dari yang paling besar ke yang paling kecil.
 
 ## Link YouTube
+https://youtu.be/9GADxKutJgo
