@@ -36,3 +36,6 @@ Program langsung menyortir *list* dan menampilkannya: `[44, 99, 294, 301, 403, 4
 
 ## Link YouTube
 
+## Tugas
+<img width="3472" height="4624" alt="IMG_20260512_222502" src="https://github.com/user-attachments/assets/5b726815-fb57-4c97-abda-659f72dfabb9" />
+
