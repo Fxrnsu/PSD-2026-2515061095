@@ -33,9 +33,9 @@ def main():
     
     print("\n--- Hasil Pencarian ---")
     if indeks_ditemukan != -1:
-        print(f"✅ Pin {target_pin} DITEMUKAN pada indeks ke-{indeks_ditemukan}.")
+        print(f"Pin {target_pin} DITEMUKAN pada indeks ke-{indeks_ditemukan}.")
     else:
-        print(f"❌ Pin {target_pin} TIDAK DITEMUKAN.")
+        print(f"Pin {target_pin} TIDAK DITEMUKAN.")
 
 if __name__ == "__main__":
     main()
