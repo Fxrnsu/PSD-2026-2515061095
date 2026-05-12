@@ -1,5 +1,5 @@
 # Judul Program
-Sistem Database Nomor Pin Peserta Ujian Hunter (Menggunakan Binary Search)
+Sistem Database Nomor Pin Peserta UTBK Menggunakan Binary Search
 
 ## Deskripsi Singkat
 Program ini berfungsi untuk menyimpan dan mencari nomor pin peserta UTBK di dalam sebuah database. Algoritma struktur data yang diterapkan adalah Binary Search. Algoritma ini memiliki efisiensi waktu logaritmik atau O(log n). Syarat utama Binary Search adalah data harus dalam keadaan terurut terlebih dahulu. Oleh karena itu, program secara otomatis menggunakan fungsi `.sort()` pada list sebelum pencarian dimulai. Proses pencarian dilakukan dengan cara memeriksa nilai tengah array, lalu membuang setengah bagian data yang tidak mungkin berisi target secara berulang hingga data ditemukan.
