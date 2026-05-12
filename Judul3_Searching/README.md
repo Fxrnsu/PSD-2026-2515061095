@@ -32,7 +32,7 @@ Program ini berfungsi untuk menyimpan dan mencari nomor pin peserta UTBK di dala
 <img width="474" height="188" alt="Screenshot 2026-05-12 220144" src="https://github.com/user-attachments/assets/33b02e64-e2e1-4f64-9ffa-f9ee8be4878b" />
 
 **Penjelasan Output:**
-Program langsung menyortir *list* dan menampilkannya: `[44, 99, 294, 301, 403, 404, 405]`. Pengguna hanya diminta mengetikkan satu angka target, misalnya `405`. Algoritma *Binary Search* kemudian bekerja mengecek posisi tengah dan langsung menemukan hasil bahwa Pin 405 DITEMUKAN pada indeks ke-6.
+Program langsung menyortir *list* dan menampilkannya: `[44, 99, 294, 301, 403, 404, 405]`. Pengguna hanya diminta mengetikkan satu angka target, misalnya `405`. Algoritma *Binary Search* kemudian bekerja mengecek posisi tengah dan langsung menemukan hasil bahwa Pin 405 ditemukan pada indeks ke-6.
 
 ## Link YouTube
 https://youtu.be/u-fBPye5YOA
