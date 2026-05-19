@@ -48,4 +48,4 @@ Program ini adalah simulasi sistem playlist pada aplikasi pemutar musik. Program
 Saat program dijalankan, 5 buah lagu sudah otomatis masuk ke dalam antrean. Saat menu 1 dipilih, program berhasil menampilkan deretan lagu tersebut dari urutan pertama hingga terakhir. Ketika menu 2 dijalankan, program mengeksekusi operasi `Dequeue`, memutar lagu Hindia, lalu menggeser indeks sehingga lagu tersebut keluar dari daftar tunggu. Jika pengguna menekan menu 4 (`Enqueue`), pengguna dapat mengetikkan judul lagu baru yang secara otomatis akan ditempatkan pada urutan paling akhir dari antrean pemutaran.
 
 ## Link YouTube
-
+https://youtu.be/XEtG9lZKBBU
