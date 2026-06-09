@@ -13,9 +13,14 @@ Program ini adalah sistem manajemen pencarian buku perpustakaan menggunakan stru
 * **Fungsi `insert`:** Memasukkan data baru ke dalam tabel. Jika indeks hasil *hash* sudah terisi, algoritma *Linear Probing* akan menggeser pencarian ke indeks selanjutnya (`index + 1`) hingga menemukan slot berstatus `EMPTY` atau `DELETED`.
 * **Fungsi `search`:** Mencari data berdasarkan *key*. Pencarian dimulai dari indeks hasil *hash* dan akan terus berlanjut hingga data ditemukan atau bertemu dengan slot `EMPTY`.
 * **Fungsi `remove_key`:** Menghapus data buku secara logis dengan mengubah status slot menjadi `DELETED`. Data tidak dihapus secara fisik agar tidak memutus rantai pencarian *Linear Probing* untuk data lain.
-* **Fungsi `main`:** Memuat antarmuka terminal interaktif.
+* **Fungsi `main`:** Menjalankan program.
 
-## Output Program
+## Output 
+<img width="467" height="418" alt="image" src="https://github.com/user-attachments/assets/05e1e3f5-2f53-4e1d-844d-0c3e169ae402" />
+<img width="429" height="72" alt="image" src="https://github.com/user-attachments/assets/e671c522-c902-43e1-9e65-587929d99065" />
+<img width="349" height="66" alt="image" src="https://github.com/user-attachments/assets/7c8f5ca9-b62e-4fd3-9da4-75e66b341f49" />
+<img width="497" height="90" alt="image" src="https://github.com/user-attachments/assets/8bb3cd32-4c55-4d22-a87c-51706105c6f5" />
+<img width="531" height="69" alt="image" src="https://github.com/user-attachments/assets/3f4f0d14-4f9a-4c82-bf79-ea7ec1860548" />
 
 
 
